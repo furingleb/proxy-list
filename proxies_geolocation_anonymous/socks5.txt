@@ -1,0 +1,10 @@
+93.190.141.62:9050|Netherlands|North Brabant|Roosendaal
+60.248.77.68:3000|Taiwan|New Taipei|New Taipei
+143.248.55.62:5566|Germany|Bavaria|Gerolzhofen
+64.227.53.22:9050|Switzerland|Zurich|Zurich
+138.68.18.219:9050|Netherlands|North Brabant|Roosendaal
+158.69.64.142:9200|Germany|Bremen|Bremen
+159.69.153.169:5566|United States|New York|Brooklyn
+138.68.57.62:9050|Netherlands|North Holland|Amsterdam
+51.83.140.70:8181|Germany|North Rhine-Westphalia|Bonn
+125.141.139.112:5566|United States|Washington|Seattle

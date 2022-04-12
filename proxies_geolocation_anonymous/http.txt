@@ -1,0 +1,50 @@
+85.25.4.27:5566|Germany|North Rhine-Westphalia|Düsseldorf
+85.25.119.113:5566|Germany|Land Berlin|Berlin
+62.75.229.165:5566|Germany|Bavaria|Gerolzhofen
+8.214.41.50:80|Singapore|North West|Singapore
+91.217.42.4:8080|Russia|Chelyabinsk Oblast|Chelyabinsk
+139.5.151.182:63123|Indonesia|Jakarta|Jakarta
+177.93.33.188:8080|Colombia|Departamento de Narino|Policarpa
+43.249.224.174:83|India|Telangana|Hyderabad
+118.67.219.153:8080|Bangladesh|Dhaka Division|Dhaka
+222.253.48.253:8080|Vietnam|Ho Chi Minh|Ho Chi Minh City
+190.113.42.73:999|Dominican Republic|Provincia de Santo Domingo|Santo Domingo Este
+182.23.104.237:8080|Indonesia|Jakarta|Jakarta
+23.132.48.1:999|United States|New Jersey|Morristown
+45.248.27.129:8080|India|Uttar Pradesh|Noida
+200.88.112.252:999|Dominican Republic|Provincia de Santo Domingo|Santo Domingo Este
+222.162.121.224:11223|United States|California|San Jose
+190.221.33.11:999|Argentina|Buenos Aires|Piguee
+103.25.210.228:8080|Indonesia|Central Java|Purwokerto Wetan
+45.156.31.58:9090|Turkey|Istanbul|Istanbul
+178.252.175.4:8080|Iran|Tehran|Tehran
+183.89.8.194:8080|Thailand|Surat Thani|Bang Bai Mai
+190.113.40.20:999|Dominican Republic|Nacional|Santo Domingo
+196.216.65.57:8080|Kenya|Nairobi Province|Nairobi
+85.25.208.212:5566|Germany|North Rhine-Westphalia|Bonn
+177.93.50.5:999|Colombia|Bogota D.C.|Bogotá
+103.152.100.233:8080|Pakistan|Punjab|Faisalabad
+181.224.255.39:8080|Peru|Lima|Lima
+183.88.48.104:8080|Thailand|Chiang Mai|Chiang Mai
+159.65.69.186:9300|United States|Washington|Seattle
+85.25.235.82:5566|Austria|Vienna|Vienna
+14.160.32.23:8080|Vietnam|Hanoi|Hanoi
+198.244.138.126:3128|United Kingdom|England|London
+197.211.45.4:10000|United Kingdom|England|London
+193.242.151.44:8080|Russia|Krasnodarskiy Kray|Krasnodar
+103.124.87.1:8080|India|West Bengal|Kolkata
+188.138.106.133:5566|Germany|Saxony|Dresden
+152.231.25.58:8080|Colombia|Departamento del Valle del Cauca|Santiago de Cali
+183.88.215.252:8080|Thailand|Chiang Mai|Chiang Mai
+170.233.235.249:3128|Argentina|Chaco|Resistencia
+45.235.15.15:999|Ecuador|Provincia del Guayas|Guayaquil
+190.128.231.146:8080|Paraguay|Asuncion|Asunción
+91.93.118.3:8090|Turkey|Ankara|Ankara
+170.79.91.203:999|Colombia|Departamento de Risaralda|Choco
+85.25.226.242:5566|Germany|Bavaria|Gerolzhofen
+103.155.54.73:83|India|West Bengal|Bhagwangola
+152.200.138.119:999|Colombia|Departamento del Magdalena|Florencia
+206.62.163.196:999|Venezuela|Zulia|Maracaibo
+103.147.77.66:5003|Indonesia|West Nusa Tenggara|Sumbawa Besar
+103.149.143.2:8080|Bangladesh|Dhaka Division|Dhaka
+103.71.21.185:82|India|Chhattisgarh|Raipur
